@@ -1,2 +1,1 @@
-# prepCourse
-Repositorio de prueba
+Prueba para clonar
